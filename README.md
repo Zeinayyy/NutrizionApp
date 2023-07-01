@@ -1,4 +1,3 @@
-
 # Nutrizion App
 
 Receive Nutrition Detail from certain foods Made with USDA API
@@ -14,4 +13,3 @@ Receive Nutrition Detail from certain foods Made with USDA API
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - Pa Rickard Elsen
  
-
